@@ -1,8 +1,8 @@
 <?php
 
-require '../../../vendor/autoload.php';
+require '../vendor/autoload.php';
 
-use function string\longestLength;
+use function PHPTasks\LongestStringTask\longestLength;
 
 class LongestStringTest extends \PHPUnit\Framework\TestCase
 {

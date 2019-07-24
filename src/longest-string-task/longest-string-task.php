@@ -1,6 +1,6 @@
 <?php
 
-namespace string;
+namespace PHPTasks\LongestStringTask;
 
 /**
  * Time complexity will be linear, or O(n).
