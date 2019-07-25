@@ -1,5 +1,8 @@
 {
   "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    },
     "files": [
       "src/longest-string-task/longest-string-task.php",
       "src/matrix-task/matrix-task.php",
