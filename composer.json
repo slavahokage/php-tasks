@@ -1,7 +1,10 @@
 {
   "autoload": {
     "files": [
-      "src/longest-string-task/longest-string-task.php"
+      "src/longest-string-task/longest-string-task.php",
+      "src/matrix-task/matrix-task.php",
+      "src/fizz-task/fizz.php",
+      "src/fibonacci-task/fibonacci-task.php"
     ]
   },
   "require-dev": {
